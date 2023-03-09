@@ -1,0 +1,45 @@
+@options
+@packages
+-classpath
+'C:/Users/rkzer/.m2/repository/org/projectlombok/lombok/1.18.26/lombok-1.18.26.jar'
+-encoding
+'Cp1252'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/rkzer/DIO/init-mvn/maven-javadoc-test/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/rkzer/DIO/init-mvn/maven-javadoc-test/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'maven-javadoc-test 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'maven-javadoc-test 1.0-SNAPSHOT API'
+br.rkdev
+C:\Users\rkzer\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar = 1677709553151
+C:\Users\rkzer\DIO\init-mvn\maven-javadoc-test\src\main\java = 1677709357193
+C:\Users\rkzer\DIO\init-mvn\maven-javadoc-test\target\site\apidocs\allclasses-index.html = 1677710527075
+C:\Users\rkzer\DIO\init-mvn\maven-javadoc-test\target\site\apidocs\allpackages-index.html = 1677710527080
+C:\Users\rkzer\DIO\init-mvn\maven-javadoc-test\target\site\apidocs\element-list = 1677710527003
+C:\Users\rkzer\DIO\init-mvn\maven-javadoc-test\target\site\apidocs\help-doc.html = 1677710527111
+C:\Users\rkzer\DIO\init-mvn\maven-javadoc-test\target\site\apidocs\index-all.html = 1677710527101
+C:\Users\rkzer\DIO\init-mvn\maven-javadoc-test\target\site\apidocs\index.html = 1677710527104
+C:\Users\rkzer\DIO\init-mvn\maven-javadoc-test\target\site\apidocs\jquery-ui.overrides.css = 1677710527153
+C:\Users\rkzer\DIO\init-mvn\maven-javadoc-test\target\site\apidocs\member-search-index.js = 1677710527087
+C:\Users\rkzer\DIO\init-mvn\maven-javadoc-test\target\site\apidocs\module-search-index.js = 1677710527082
+C:\Users\rkzer\DIO\init-mvn\maven-javadoc-test\target\site\apidocs\overview-tree.html = 1677710527059
+C:\Users\rkzer\DIO\init-mvn\maven-javadoc-test\target\site\apidocs\package-search-index.js = 1677710527084
+C:\Users\rkzer\DIO\init-mvn\maven-javadoc-test\target\site\apidocs\script.js = 1677710527116
+C:\Users\rkzer\DIO\init-mvn\maven-javadoc-test\target\site\apidocs\search.js = 1677710527119
+C:\Users\rkzer\DIO\init-mvn\maven-javadoc-test\target\site\apidocs\stylesheet.css = 1677710527114
+C:\Users\rkzer\DIO\init-mvn\maven-javadoc-test\target\site\apidocs\tag-search-index.js = 1677710527089
+C:\Users\rkzer\DIO\init-mvn\maven-javadoc-test\target\site\apidocs\type-search-index.js = 1677710527086
